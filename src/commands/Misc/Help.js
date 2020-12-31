@@ -74,7 +74,7 @@ class HelpCommand extends Command {
                 '<a:righter_arrow:793184978313674772> - Skip forward a page',
                 '⏩ - Skip to the last page'
             ].join('\n'))
-            .addField('Pages', !this.client.ownerID.includes(message.author.id) ? ['\`1:\` This page', '\`2:\` Config', '\`3:\` Fun', '\`4:\` Misc', '\`5:\` Moderation', '\`6:\` Text ', '\`7:\` Utility'].join('\n') : ['\`1:\` This page', '\`2:\` Config', '\`3:\` Fun', '\`4:\` Misc', '\`5:\` Moderation', '\`6:\` Owner ', '\`7:\` Text', '\`8:\` Utility'].join('\n'))
+            .addField('Pages', !this.client.ownerID.includes(message.author.id) ? ['\`1:\` This page', '\`2:\` Config', '\`3:\` Fun', '\`4:\` Misc', '\`5:\` Moderation', '\`6:\` Text ', '\`7:\` Utility', '\`8:\` Economy'].join('\n') : ['\`1:\` This page', '\`2:\` Config', '\`3:\` Fun', '\`4:\` Misc', '\`5:\` Moderation', '\`6:\` Owner ', '\`7:\` Text', '\`8:\` Utility', '\`9:\` Economy'].join('\n'))
             .setColor(this.client.color)
             .setFooter(`Requested by ${message.author.username}`)
             .setTimestamp()

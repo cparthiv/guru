@@ -13,7 +13,7 @@ class SupportCommand extends Command {
     }
 
     async exec(message) {
-        return message.responder.success('**You can join the Guru server here** https://dsc.gg/black. ')
+        return message.responder.success('**You can join the EpicBot server here** https://dsc.gg/black. ')
     }
 }
 

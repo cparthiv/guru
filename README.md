@@ -1,8 +1,8 @@
-# Guru
+# EpicBot
 # Open-Source
 I would love for anyone to make a pull request. I will approve the pr if it makes a difference.
 ## About
-Guru is a multi-purpose discord bot for any server. It is customizable and has a lot of commands. The default prefix is `g.`.
+EpicBot is a multi-purpose discord bot for any server. It is customizable and has a lot of commands. The default prefix is `g.`.
 **Vanity URL Invite** Please use this invite so we can track the servers and analytics of Guru. [invite](https://dsc.gg/guru)
 # Support
 [Support](https://dsc.gg/black). If you need any help, please join our support server.

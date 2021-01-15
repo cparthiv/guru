@@ -1,4 +1,10 @@
 # EpicBot
+
+# IMPORTANT - READ THIS
+**This is not the EpicBot repository!**
+This is the code EpicBot is based off!
+
+
 # Open-Source
 I would love for anyone to make a pull request. I will approve the pr if it makes a difference.
 ## About

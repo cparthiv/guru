@@ -3,7 +3,7 @@
 I would love for anyone to make a pull request. I will approve the pr if it makes a difference.
 ## About
 EpicBot is a multi-purpose discord bot for any server. It is customizable and has a lot of commands. The default prefix is `g.`.
-**Vanity URL Invite** Please use this invite so we can track the servers and analytics of Guru. [invite](https://dsc.gg/guru)
+**Vanity URL Invite** Please use this invite so we can track the servers and analytics of EpicBot. [invite](https://dsc.gg/guru)
 # Support
 [Support](https://dsc.gg/black). If you need any help, please join our support server.
 ## Developers
@@ -31,5 +31,7 @@ LoadXWar is also a dev with knowledge in web development and node-js. Here is hi
 ```
 ## Links
 [Discord](https://discord.com)
+
 [Developer Portal](https://discord.com/developers)
+
 [Support Server](https://dsc.gg/black)

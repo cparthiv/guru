@@ -20,7 +20,7 @@ require('dotenv').config();
 // Instantiating extensions
 require('./lib/extensions');
 
-class GuruClient extends AkairoClient {
+class EpicBot extends AkairoClient {
     constructor() {
         super({
         	ownerID: config.owners
@@ -227,5 +227,5 @@ class GuruClient extends AkairoClient {
         }).join('').replace(/\s/g, '  ');
     }
 }
-const client = new GuruClient();
+const client = new EpicBot();
 client.login(process.env.TOKEN);

@@ -1,8 +1,8 @@
 {
-  "name": "Guru",
+  "name": "EpicBot",
   "version": "1.0.0",
   "description": "multi-purpose discord bot",
-  "main": "Guru.js",
+  "main": "epicbot.js",
   "scripts": {
     "dev": "node .",
     "lint": "eslint . --fix",

@@ -1,8 +1,4 @@
-# EpicBot
-
-# IMPORTANT - READ THIS
-**This is not the EpicBot repository!**
-This is the code EpicBot is based off!
+# Guru
 
 
 # Open-Source

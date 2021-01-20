@@ -4,7 +4,7 @@ const { Timestamp } = require('@skyra/timestamp');
 const Flipnote = require('alexflipnote.js');
 const { 
 	AkairoClient,
-    CommandHandler,
+    	CommandHandler,
 	ListenerHandler,
 	InhibitorHandler,
 	MongooseProvider

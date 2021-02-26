@@ -13,7 +13,7 @@
   "dependencies": {
     "@aero/centra": "^1.0.6",
     "@skyra/timestamp": "^1.0.0",
-    "alexflipnote.js": "^2.3.1",
+    "alexflipnote.js": "^2.3.6",
     "colors": "^1.4.0",
     "discord-akairo": "^8.1.0",
     "discord.js": "github:monbrey/discord.js#inline-replies",

@@ -1,0 +1,28 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "13:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: mongoose
+    versions:
+    - 5.11.17
+    - 5.11.19
+    - 5.12.0
+    - 5.12.1
+    - 5.12.2
+    - 5.12.3
+    - 5.12.4
+    - 5.12.5
+  - dependency-name: mathjs
+    versions:
+    - 9.2.0
+    - 9.3.0
+    - 9.3.1
+  - dependency-name: alexflipnote.js
+    versions:
+    - 2.4.0
+    - 2.4.1
